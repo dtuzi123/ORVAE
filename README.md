@@ -1,5 +1,5 @@
 
-# Lifelong Variational Autoencoder via Online Adversarial Expansion Strategy
+# Learning Dynamic Latent Spaces for Lifelong Generative Modelling
 
 >📋 This is the implementation of Learning Dynamic Latent Spaces for Lifelong Generative Modelling
 
